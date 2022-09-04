@@ -1,0 +1,18 @@
+1. Descreva, com as suas próprias palavras, o que é Classe?
+	Classe é um elemento utilizado para representar objetos
+	do mundo real, para utilizarmos futuramente com as variaveis e metodos que iremos declarar para tal.
+	
+
+
+
+2. Diferencie, com as suas próprias palavras, Classe de Objeto.
+	Classe seria por exemplo, uma pessoa, e objeto seriam por exemplo seus dados.
+	
+	
+3. O que é instância de uma Classe?
+	Seria o ato de criar uma variavel que representa a classe inteira e através da mesma,
+	pode-se por exemplo usar todos as variaveis e metodos que nela estejam.
+	
+	
+4. O que são atributos e por que, em Orientação a Objetos, devemos encapsulá-los?
+	Fazemos isso para controlar o acesso aos mesmos.
